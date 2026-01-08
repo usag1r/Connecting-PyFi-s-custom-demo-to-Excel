@@ -1,0 +1,144 @@
+date,amount,description,account,spender,vendor,category,llm_vendor,llm_category
+2025-03-01,2000.00,GREYSTAR RENT PAYMENT 12345,jack_ch,Jack,Greystar,Rent,,
+2025-03-07,550.70,ALLY AUTO PAYMT 000987654321,jack_ch,Jack,Ally Auto,Automotive,,
+2025-03-07,29.53,PLANET FITNESS MEMBER FEE,jack_ch,Jack,Planet Fitness,Gym & Fitness,,
+2025-03-21,82.87,CITY OF DALLAS UTILITIES,jack_ch,Jack,City of Dallas,Utilities,,
+2025-03-03,11.95,WSJ DIGITAL,jack_cc,Jack,Wall Street Journal,Subscriptions,,
+2025-03-04,9.99,GOOGLE*GOOGLE STORAGE,jack_cc,Jack,Google,Subscriptions,,
+2025-03-08,38.83,POS PURCHASE REI #01234 SEATTLE WA,jack_cc,Jack,REI,Sports & Recreation,1.0,1.0
+2025-03-08,25.38,PURCHASE PAPER SOURCE,jack_cc,Jack,Paper Source,Office Supplies,1.0,1.0
+2025-03-11,86.89,FOOTLOCKER #1234 CITY NAME,jack_cc,Jack,Foot Locker,Clothing & Accessories,1.0,1.0
+2025-03-11,5.00,STAPLES 1234 PURCHASE,jack_cc,Jack,Staples,Office Supplies,1.0,1.0
+2025-03-13,36.90,LOWE'S  STORE #1234,jack_cc,Jack,Lowe's,Home,1.0,1.0
+2025-03-16,12.66,WALGREENS #1234,jack_cc,Jack,Walgreens,Health & Personal Care,1.0,1.0
+2025-03-16,18.08,DISCOUNT CONTACTS PURCHASE,jack_cc,Jack,Discount Contacts,Health & Personal Care,1.0,1.0
+2025-03-17,39.32,OUTBACK STEAKHOUSE #1234 CITY ST,jack_cc,Jack,Outback Steakhouse,Other Food & Beverage,1.0,1.0
+2025-03-17,10.00,ACE HARDWARE PURCHASE,jack_cc,Jack,Ace Hardware,Home,1.0,1.0
+2025-03-17,25.26,BUFFALO WILD WINGS #1234,jack_cc,Jack,Buffalo Wild Wings,Other Food & Beverage,1.0,1.0
+2025-03-18,51.68,WALGREENS #12345,jack_cc,Jack,Walgreens,Health & Personal Care,1.0,1.0
+2025-03-18,17.43,POS PURCHASE STAPLES 555123 ANYTOWN,jack_cc,Jack,Staples,Office Supplies,1.0,1.0
+2025-03-21,28.25,ACE HARDWARE PURCHASE,jack_cc,Jack,Ace Hardware,Home,1.0,1.0
+2025-03-21,51.39,POS PURCHASE LOWE'S 1234 CITY ST,jack_cc,Jack,Lowe's,Home,1.0,1.0
+2025-03-22,31.10,AUTOZONE #1234 PURCHASE,jack_cc,Jack,AutoZone,Automotive,1.0,1.0
+2025-03-22,88.68,PURCHASE BANANA REPUBLIC 1234 ANYTOWN,jack_cc,Jack,Banana Republic,Clothing & Accessories,1.0,1.0
+2025-03-24,27.02,BARBER'S CORNER HAIRCUT,jack_cc,Jack,Barber's Corner,Health & Personal Care,1.0,1.0
+2025-03-27,9.40,STARBUCKS 12345 SEATTLE WA,jack_cc,Jack,Starbucks,Other Food & Beverage,1.0,1.0
+2025-03-23,24.99,PLNT FITNESS 6543 MONTHLY FEE,jill_ch,Jill,Planet Fitness,Gym & Fitness,,
+2025-03-23,134.89,FRISCO SOCCER ASSOCIATION - CHILD DUES,jill_ch,Jill,Frisco Soccer Association,Sports & Recreation,1.0,1.0
+2025-03-28,164.46,TXU ENERGY 800-818-6132,jill_ch,Jill,TXU Energy,Utilities,,
+2025-03-01,53.11,POS PURCHASE TJ MAXX #1234 CITY ST,jill_cc,Jill,TJ Maxx,Clothing & Accessories,1.0,1.0
+2025-03-02,224.99,KROGER 458 DALLAS TX,jill_cc,Jill,Kroger,Groceries,1.0,1.0
+2025-03-02,52.80,SWADDLES PURCHASE,jill_cc,Jill,Swaddles,Baby & Child,1.0,1.0
+2025-03-02,64.14,POS PURCHASE JCREW 1234 CITYNAME,jill_cc,Jill,J.Crew,Clothing & Accessories,1.0,1.0
+2025-03-03,53.65,CHWY*CHEWY.COM,jill_cc,Jill,Chewy,Pet Supplies,1.0,1.0
+2025-03-03,136.73,ANTHROPOLOGIE PURCHASE,jill_cc,Jill,Anthropologie,Clothing & Accessories,1.0,1.0
+2025-03-04,18.70,WALGREENS #1234 CITY ST,jill_cc,Jill,Walgreens,Health & Personal Care,1.0,1.0
+2025-03-09,199.17,KROGER 458 DALLAS TX,jill_cc,Jill,Kroger,Groceries,1.0,1.0
+2025-03-16,16.99,SPOTIFY PREMIUM,jill_cc,Jill,Spotify,Subscriptions,,
+2025-03-16,228.98,KROGER 458 DALLAS TX,jill_cc,Jill,Kroger,Groceries,1.0,1.0
+2025-03-16,10.00,BED BATH & BEYOND #1234,jill_cc,Jill,Bed Bath & Beyond,Home,1.0,1.0
+2025-03-17,31.11,MCDONALD'S POS PURCHASE,jill_cc,Jill,McDonald's,Other Food & Beverage,1.0,1.0
+2025-03-17,98.31,PURCHASE - EVERLANE 1234 - CITY ST,jill_cc,Jill,Everlane,Clothing & Accessories,1.0,1.0
+2025-03-17,8.81,WALGREENS #1234 ANYTOWN,jill_cc,Jill,Walgreens,Health & Personal Care,1.0,1.0
+2025-03-18,36.73,WAYFAIR.COM PURCHASE,jill_cc,Jill,Wayfair,Home,1.0,1.0
+2025-03-18,16.65,DOORDASH*ORDER 800-123-4567 CA,jill_cc,Jill,DoorDash,Other Food & Beverage,1.0,1.0
+2025-03-19,26.21,CHEWY.COM PURCHASE,jill_cc,Jill,Chewy,Pet Supplies,1.0,1.0
+2025-03-19,86.17,POS PURCHASE BEST BUY #1234 CITY ST,jill_cc,Jill,Best Buy,Electronics & Accessories,1.0,1.0
+2025-03-20,27.88,WAYFAIR.COM PURCHASE,jill_cc,Jill,Wayfair,Home,1.0,1.0
+2025-03-20,28.92,LOWE'S #00974 PURCHASE,jill_cc,Jill,Lowe's,Home,1.0,1.0
+2025-03-21,60.46,POS PURCHASE SWADDLES 1234 CITY ST,jill_cc,Jill,Swaddles,Baby & Child,1.0,1.0
+2025-03-21,80.36,ZAPPOS.COM PURCHASE,jill_cc,Jill,Zappos,Clothing & Accessories,1.0,1.0
+2025-03-21,47.40,POS PURCHASE CHEWY.COM 800-672-4399 FL,jill_cc,Jill,Chewy,Pet Supplies,1.0,1.0
+2025-03-23,10.00,NEWEGG.COM PURCHASE,jill_cc,Jill,Newegg,Electronics & Accessories,1.0,1.0
+2025-03-24,269.21,KROGER 458 DALLAS TX,jill_cc,Jill,Kroger,Groceries,1.0,1.0
+2025-03-24,38.70,MCDONALD'S 1234 CITYNAME ST,jill_cc,Jill,McDonald's,Other Food & Beverage,1.0,1.0
+2025-03-26,24.33,BARNES & NOBLE PURCHASE,jill_cc,Jill,Barnes & Noble,Books,1.0,1.0
+2025-03-28,17.99,NETFLIX.COM 866-716-0414,jill_cc,Jill,Netflix,Subscriptions,,
+2025-03-29,10.00,BED BATH & BEYOND PURCHASE,jill_cc,Jill,Bed Bath & Beyond,Home,1.0,1.0
+2025-03-31,66.53,AMAZON SEATTLE WA,jill_cc,Jill,Amazon,General,1.0,1.0
+2025-03-31,9.99,AMAZON SEATTLE WA,jill_cc,Jill,Amazon,General,1.0,1.0
+2025-03-01,10.13,"Post-it Super Sticky Notes, 24 Sticky Note Pads, 3 x 3 in.",amzn,Jill,Amazon,Office Supplies,,1.0
+2025-03-01,7.55,"Universal Smartphone Cleaning Wipes, 50-Pack",amzn,Jill,Amazon,Electronics & Accessories,,1.0
+2025-03-01,9.14,"Universal Smartphone Stylus Pen, 2-Pack – Precision Touchscreen Pen for Phones and Tablets",amzn,Jill,Amazon,Electronics & Accessories,,1.0
+2025-03-01,31.47,Bluetooth Wireless Mouse with Ergonomic Design and Adjustable DPI,amzn,Jill,Amazon,Electronics & Accessories,,1.0
+2025-03-01,23.12,"AutoMate Luxe Car Visor Vanity Mirror with LED Lights for Women – Universal Fit, Touch Sensor, USB Rechargeable",amzn,Jill,Amazon,Automotive,,1.0
+2025-03-02,13.45,Universal Fast-Charge 6ft USB-C to USB-A Charging Cable,amzn,Jill,Amazon,Electronics & Accessories,,1.0
+2025-03-02,25.85,"Onlyone Water Dental Flosser, 300ML Portable Oral Irrigator for Teeth",amzn,Jill,Amazon,Health & Personal Care,,1.0
+2025-03-02,34.67,Men's Classic Oxford Dress Shirt – Wrinkle-Free Long Sleeve Button-Down,amzn,Jill,Amazon,Clothing & Accessories,,1.0
+2025-03-02,172.45,SnuggleEase Deluxe Convertible Car Seat with Temperature Control,amzn,Jill,Amazon,Baby & Child,,1.0
+2025-03-02,12.72,Classic Unisex Graduation Cap and Gown Set,amzn,Jill,Amazon,Clothing & Accessories,,1.0
+2025-03-02,3.00,"Floral Pattern Stick-On Notepad 50 Sheets – Cute Office Memo Pads for Desk, Purse, or Planner",amzn,Jill,Amazon,Office Supplies,,1.0
+2025-03-02,7.80,"Women's Cotton No-Show Liner Socks, 5-Pack",amzn,Jill,Amazon,Clothing & Accessories,,1.0
+2025-03-07,13.63,"Universal Windshield Washer Fluid Tablets, 12-Pack",amzn,Jill,Amazon,Automotive,,1.0
+2025-03-07,29.67,EZClean Car Wash Foam Gun Kit with Microfiber Mitt – Adjustable Hose Attachment for Effortless Vehicle Cleaning,amzn,Jill,Amazon,Automotive,,1.0
+2025-03-07,28.46,FreshPaws Monthly Dog Dental Chew Sticks (30 Pack),amzn,Jill,Amazon,Pet Supplies,,1.0
+2025-03-07,17.11,Stainless Steel Grill Cleaning Brush with Scraper,amzn,Jill,Amazon,Home,,1.0
+2025-03-07,32.01,"Stainless Steel Insulated Travel Coffee Mug with Spill-Proof Lid, 16oz",amzn,Jill,Amazon,Home,,1.0
+2025-03-07,23.91,"BlissBloom Heavy Duty Garden Weed Barrier Fabric, 3x30 ft Landscape Cloth for Flower Beds & Vegetable Gardens",amzn,Jill,Amazon,Home,,1.0
+2025-03-08,20.67,WellSpring Digital Thermometer with Flexible Tip and Memory Recall,amzn,Jill,Amazon,Health & Personal Care,,1.0
+2025-03-08,16.36,"Premium Weekly Desk Planner Pad, Undated Tear-Off Sheets, 52 Weeks, 8.5"" x 11""",amzn,Jill,Amazon,Office Supplies,,1.0
+2025-03-08,8.73,"Universal Windshield Washer Fluid Tablets, 12-Pack",amzn,Jill,Amazon,Automotive,,1.0
+2025-03-08,22.77,PetSafe Fresh Flow Water Fountain for Dogs and Cats – 64oz Automatic Pet Water Dispenser,amzn,Jill,Amazon,Pet Supplies,,1.0
+2025-03-08,19.84,EverStride Adjustable Jump Rope for Fitness and Cardio Workouts,amzn,Jill,Amazon,Gym & Fitness,,1.0
+2025-03-08,13.16,"Premium Microfiber Cleaning Cloths, 8-Pack – Ultra Soft, Reusable, Lint-Free Dusting Towels for Home Surfaces, Kitchen, Appliances, and Electronics",amzn,Jill,Amazon,Home,,1.0
+2025-03-08,9.32,"Pruning Shears, 4 Pack Garden Shears",amzn,Jill,Amazon,Home,,1.0
+2025-03-08,16.53,"Organic French Vanilla Coffee K-Cups, 24 Count",amzn,Jill,Amazon,Groceries,,1.0
+2025-03-08,3.94,"Prime Trail Mix Snack Packs, 6-Count Individual Bags",amzn,Jill,Amazon,Groceries,,1.0
+2025-03-08,14.53,"All-Weather Sports Event Seat Cushion – Portable, Lightweight Bleacher Pad with Carry Handle",amzn,Jill,Amazon,Sports & Recreation,,1.0
+2025-03-08,11.67,"Unisex Cotton Crew Socks, 5-Pack",amzn,Jill,Amazon,Clothing & Accessories,,1.0
+2025-03-12,21.43,"Gentleman's Daily Multivitamin Tablets for Men, 90 Count",amzn,Jill,Amazon,Health & Personal Care,,1.0
+2025-03-12,10.08,Tummy Time Water Mat丨Inflatable Tummy Time Water Play Mat for Babies,amzn,Jill,Amazon,Baby & Child,,1.0
+2025-03-12,10.27,Soft Cotton Non-Slip Headbands for Women (2-Pack),amzn,Jill,Amazon,Clothing & Accessories,,1.0
+2025-03-12,4.81,"Universal Car Air Freshener Vent Clip, Long-Lasting Scent, 2-Pack",amzn,Jill,Amazon,Automotive,,1.0
+2025-03-12,36.82,"Tropicana 100% Juice 3-flavor Classic Variety Pack,10 Fl Oz (Pack of 24)",amzn,Jill,Amazon,Groceries,,1.0
+2025-03-12,9.64,"Unisex Cotton Crew Socks, 3-Pack",amzn,Jill,Amazon,Clothing & Accessories,,1.0
+2025-03-12,32.67,BlossomEase Seasonal Garden Pruner Kit for Women – Ergonomic Floral Trimming Tool Set with Comfort Grip,amzn,Jill,Amazon,Home,,1.0
+2025-03-12,21.95,Stainless Steel Reusable Coffee Filter for Drip Coffee Makers,amzn,Jill,Amazon,Home,,1.0
+2025-03-13,47.44,The Ultimate Family Meal Planner: Biweekly Recipes & Grocery Lists for Busy Lives,amzn,Jill,Amazon,Books,,1.0
+2025-03-13,17.51,The Daily Journal: Guided Reflections for Personal Growth and Goal Setting,amzn,Jill,Amazon,Books,,1.0
+2025-03-13,14.45,"JUNTECH USB-C to USB-A Fast Charging Cable (6ft, 2-Pack)",amzn,Jill,Amazon,Electronics & Accessories,,1.0
+2025-03-13,72.24,SereneMom Premium Double Electric Breast Pump Kit with Adjustable Suction & BPA-Free Bottles,amzn,Jill,Amazon,Baby & Child,,1.0
+2025-03-16,3.62,"Blue River Smoky BBQ Sauce, 16 oz",amzn,Jill,Amazon,Groceries,,1.0
+2025-03-16,37.78,Adjustable Resistance Hip Bands Set for Glute Workouts,amzn,Jill,Amazon,Gym & Fitness,,1.0
+2025-03-16,13.12,Garden Decor Outdoor Lights 120LED 2Pack,amzn,Jill,Amazon,Home,,1.0
+2025-03-16,28.36,"O-Cedar EasyWring Microfiber Spin Mop, Bucket Floor Cleaning System, Red, Gray, Standard",amzn,Jill,Amazon,Home,,1.0
+2025-03-16,17.17,Executive Black Leather Desk Pad Organizer - 17 x 12 Inch Writing Mat for Office and Home,amzn,Jill,Amazon,Office Supplies,,1.0
+2025-03-16,49.24,CozyNest Portable Baby Play Mat & Tummy Time Activity Gym,amzn,Jill,Amazon,Baby & Child,,1.0
+2025-03-16,133.33,"PureBrew Electric Programmable Coffee Maker with Thermal Carafe, 12-Cup Capacity",amzn,Jill,Amazon,Home,,1.0
+2025-03-16,21.08,Hickory Smokehouse Beef Jerky Mega Pack – 20oz Resealable Protein Snack for Men,amzn,Jill,Amazon,Groceries,,1.0
+2025-03-16,39.05,"Variety Pack (4PK) (4, Original, Blueberry, Mango, Coconut), non-GMO Granola & Organic Quinoa Crisps",amzn,Jill,Amazon,Groceries,,1.0
+2025-03-16,21.03,"Aloe Vera Moisturizing Hand & Body Lotion, 16 oz Pump Bottle",amzn,Jill,Amazon,Health & Personal Care,,1.0
+2025-03-16,32.20,"EXACTMARK 12-Pack Professional Ballpoint Pens, Smooth Writing, Retractable, Black Ink, Office Supplies",amzn,Jill,Amazon,Office Supplies,,1.0
+2025-03-16,21.87,"UltraClean Microfiber Car Wash Towel 6-Pack – Reusable, Lint-Free, Super Absorbent Cleaning Cloths for Auto Detailing, Polishing, and Interior Care",amzn,Jill,Amazon,Automotive,,1.0
+2025-03-16,65.86,ProGuard Deluxe Car Jump Starter and Portable Power Bank,amzn,Jill,Amazon,Automotive,,1.0
+2025-03-18,36.72,ProClean Premium Microfiber Car Wash Mitts (4-Pack) for Auto Detailing and Scratch-Free Cleaning,amzn,Jill,Amazon,Automotive,,1.0
+2025-03-18,12.57,BlossomDrive Lavender Scented Car Air Freshener Clip (12-Pack),amzn,Jill,Amazon,Automotive,,1.0
+2025-03-18,26.16,FreshMint Ultrasonic Rechargeable Electric Toothbrush,amzn,Jill,Amazon,Health & Personal Care,,1.0
+2025-03-18,22.50,EverBloom Collapsible Garden Hose - 50ft Durable Lightweight Watering Hose with 8-Function Nozzle,amzn,Jill,Amazon,Home,,1.0
+2025-03-18,11.51,"Scotch Magic Tape with Scotch Desktop Dispenser, 6 Rolls",amzn,Jill,Amazon,Office Supplies,,1.0
+2025-03-18,49.77,"Philips Norelco Multi-Grooming All-in-One Trimmer Kit for Beard, Hair & Body, Rechargeable",amzn,Jill,Amazon,Health & Personal Care,,1.0
+2025-03-18,24.30,Pet Wellness Annual Flea & Tick Prevention Kit for Dogs and Cats,amzn,Jill,Amazon,Pet Supplies,,1.0
+2025-03-18,9.75,"Kitsure Shoe Rack - Non-Woven Shoe Rack Shelf, Shoe Organizer for Closet",amzn,Jill,Amazon,Home,,1.0
+2025-03-18,15.64,PawsPro Heavy-Duty Dog Leash with Reflective Stitching and Padded Handle,amzn,Jill,Amazon,Pet Supplies,,1.0
+2025-03-18,7.25,ProGrip Non-Slip Athletic Socks for Men,amzn,Jill,Amazon,Clothing & Accessories,,1.0
+2025-03-18,19.24,"Universal Car Cabin Air Filter Replacement Kit, Annual Maintenance, Fits Most Vehicles",amzn,Jill,Amazon,Automotive,,1.0
+2025-03-18,9.81,"Unisex Classic Cotton Crew Socks, 6-Pack",amzn,Jill,Amazon,Clothing & Accessories,,1.0
+2025-03-18,15.92,"Anker USB-C to USB-A Fast Charging Cable (6ft, Braided)",amzn,Jill,Amazon,Electronics & Accessories,,1.0
+2025-03-26,9.69,IronGrip Non-Slip Weight Lifting Gloves for Men,amzn,Jill,Amazon,Gym & Fitness,,1.0
+2025-03-26,43.54,Premium Digital Bathroom Scale with Extra-Large Backlit Display and Step-On Technology,amzn,Jill,Amazon,Health & Personal Care,,1.0
+2025-03-26,18.71,"Premium Windshield Wiper Blade Replacement Set, Universal Fit for Cars & SUVs",amzn,Jill,Amazon,Automotive,,1.0
+2025-03-26,27.46,"Baby Sling Carrier, Baby Carrier Newborn to Toddler(7-45lbs)",amzn,Jill,Amazon,Baby & Child,,1.0
+2025-03-26,15.78,Unisex Classic Cotton Baseball Cap Adjustable Hat,amzn,Jill,Amazon,Clothing & Accessories,,1.0
+2025-03-26,16.69,"NOVA Chic Wireless Mouse for Laptops – Ergonomic, Silent Click, Rose Gold",amzn,Jill,Amazon,Electronics & Accessories,,1.0
+2025-03-26,13.82,SoftTouch Baby Hair Brush and Comb Set for Girls,amzn,Jill,Amazon,Baby & Child,,1.0
+2025-03-26,14.28,"Premium Microfiber Cleaning Cloths, 12-Pack for Home & Kitchen",amzn,Jill,Amazon,Home,,1.0
+2025-03-26,7.53,"CleanShave Daily Disposable Razors for Men, 6-Pack",amzn,Jill,Amazon,Health & Personal Care,,1.0
+2025-03-28,28.04,"Elite Brew Insulated French Press Coffee Maker, 34oz Stainless Steel",amzn,Jill,Amazon,Home,,1.0
+2025-03-28,21.40,Floral Design Weekly Planner Notebook – 2024 Spiral Hardcover Undated Organizer for Women,amzn,Jill,Amazon,Office Supplies,,1.0
+2025-03-29,15.88,Adjustable Heavy Duty Garden Hose Nozzle with Multiple Spray Patterns,amzn,Jill,Amazon,Home,,1.0
+2025-03-29,72.95,AutoClear Pro Digital Tire Inflator with LED Gauge and Rapid Fill Technology,amzn,Jill,Amazon,Automotive,,1.0
+2025-03-29,15.40,SilkEase Reusable Facial Cleansing Pads – Soft Makeup Remover Pads for Sensitive Skin (Pack of 10),amzn,Jill,Amazon,Health & Personal Care,,1.0
+2025-03-29,12.35,Baby's First Tooth Keepsake Box – Gender Neutral Memory Storage for Lost Teeth,amzn,Jill,Amazon,Baby & Child,,1.0
+2025-03-29,9.29,Premium Windshield Washer Fluid Tablets (4-Pack) – All-Season Glass Cleaner for Cars,amzn,Jill,Amazon,Automotive,,1.0
+2025-03-29,9.23,"Men's Aloe Vera Moisturizing Shave Gel, 7oz",amzn,Jill,Amazon,Health & Personal Care,,1.0
+2025-03-29,15.03,DinoQuest Monthly Growth Chart Stickers for Boys,amzn,Jill,Amazon,Baby & Child,,1.0
